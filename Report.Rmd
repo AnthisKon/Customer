@@ -17,6 +17,7 @@ output:
     df_print: paged
     css: custom.css
     fig_caption: true
+    encoding: UTF-8
 ---
 
 ```{r setup, include=FALSE}
